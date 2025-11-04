@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/phananhthu/Documents/netcore/PHATTRIENPHANMEMQUANLY/MvcMovie/MvcMovie.csproj",
-      "projectName": "MvcMovie",
-      "projectPath": "/Users/phananhthu/Documents/netcore/PHATTRIENPHANMEMQUANLY/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "/Users/phananhthu/Documents/netcore/PHATTRIENPHANMEMQUANLY/DemoMVC396/DemoMVC396.csproj",
+      "projectName": "DemoMVC396",
+      "projectPath": "/Users/phananhthu/Documents/netcore/PHATTRIENPHANMEMQUANLY/DemoMVC396/DemoMVC396.csproj",
       "packagesPath": "/Users/phananhthu/.nuget/packages/",
-      "outputPath": "/Users/phananhthu/Documents/netcore/PHATTRIENPHANMEMQUANLY/MvcMovie/obj/",
+      "outputPath": "/Users/phananhthu/Documents/netcore/PHATTRIENPHANMEMQUANLY/DemoMVC396/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/phananhthu/.nuget/NuGet/NuGet.Config"

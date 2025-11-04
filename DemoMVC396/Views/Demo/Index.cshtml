@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Demo Buổi 3";
+}
+
+<h2>@ViewBag.Message</h2>
+<h2>Demo ViewBag - ViewData - TempData</h2>
+
+<p><b>ViewBag:</b> @ViewBag.Message</p>
+<p><b>ViewData:</b> @ViewData["Note"]</p>
+<p><b>TempData:</b> @TempData["Alert"]</p>
+
+<a asp-action="ShowTempData" asp-controller="Demo">Xem TempData ở trang khác</a>
+<ul>
+    <li><a href="/Demo/GoToGoogle">Đi tới Google (RedirectResult)</a></li>
+    <li><a href="/Demo/GoHome">Về trang Home (RedirectToActionResult)</a></li>
+    <li><a href="/Demo/GetJson">Xem dữ liệu JSON (JsonResult)</a></li>
+     <li><a href="/Demo/FileExample">FileResult (tải file PDF)</a></li>
+    <li><a href="/Demo/ShowError">Gây lỗi 404 (StatusCodeResult)</a></li>
+</ul>
